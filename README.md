@@ -1,7 +1,7 @@
 # MNIST Digit Classification Using Neural Network
 
 
-📌##Project Overview
+📌Project Overview
 
 This project focuses on handwritten digit classification using Deep Learning.
 
@@ -9,15 +9,15 @@ The model is trained using the MNIST dataset, which contains images of handwritt
 
 
 
-🎯## Goal: Build a Deep Learning model that can recognize handwritten digits with high accuracy.
+🎯 Goal: Build a Deep Learning model that can recognize handwritten digits with high accuracy.
 
 
 
-🧠 ##About MNIST Dataset
+🧠 About MNIST Dataset
 
 MNIST stands for Modified National Institute of Standards and Technology.
 
-##The dataset contains:
+ The dataset contains:
 
 🖼️ 60,000 training images
 
